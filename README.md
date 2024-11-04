@@ -24,10 +24,3 @@ NUMBER GUESSING GAME
 2. Enter your guess when prompted.
 3. The computer will inform if your guess is too high, too low, or correct.
 4. Continue guessing until you find the right number or run out of attempts (if limits are set).
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-You can customize this further based on your specific implementation.
